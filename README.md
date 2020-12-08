@@ -4,3 +4,4 @@ A partir de agora é possível acompanhar suas inscrições por meio deste widge
 
 ## Como utilizar
 
+![Screenshot](img/example.gif)
